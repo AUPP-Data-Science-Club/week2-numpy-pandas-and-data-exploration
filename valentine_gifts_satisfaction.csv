@@ -1,0 +1,671 @@
+id,receiver_gender,receiver_age,relationship_type,months_together,gift_item,gift_category,price,flower_count,days_prepared,receiver_satisfaction
+1,Non-binary,31,Married,96,Necklace,Jewelry,45.51,24,7,4
+2,Female,33,Engaged,65,Labubu Doll,Collectibles,72.56,0,7,5
+3,Male,29,Dating,23,Necklace,Jewelry,37.05,0,2,4
+4,Non-binary,39,Married,112,Necklace,Jewelry,124.86,24,1,3
+5,Male,47,Dating,35,Dubai Chocolate,Sweets,27.71,0,5,4
+6,Male,33,Dating,22,Necklace,Jewelry,84.27,1,13,4
+7,Male,23,First Date,0,Labubu Doll,Collectibles,51.68,12,4,4
+8,Female,26,Dating,17,Perfume,Luxury,145.57,0,6,3
+9,Female,33,Dating,41,Labubu Doll,Collectibles,50.11,24,44,3
+10,Male,41,Married,239,Necklace,Jewelry,87.76,24,1,4
+11,Male,30,Engaged,53,Teddy Bear,Sentimental,20.53,1,22,3
+12,Female,23,First Date,0,Labubu Doll,Collectibles,75.88,12,0,2
+13,Male,42,Dating,41,Necklace,Jewelry,204.21,12,47,4
+14,Non-binary,33,Dating,4,Labubu Doll,Collectibles,63.26,0,21,4
+15,Male,27,Dating,47,AirPods,Luxury,238.99,12,25,4
+16,Male,35,Dating,7,Labubu Doll,Collectibles,41.42,12,10,4
+17,Female,31,Dating,10,Necklace,Jewelry,218.74,12,34,3
+18,Female,29,Engaged,23,Labubu Doll,Collectibles,71.49,1,34,5
+19,Female,23,Dating,16,Perfume,Luxury,114.0,0,49,3
+20,Female,32,Dating,44,Scented Candles,Sentimental,40.4,6,45,4
+21,Male,31,First Date,0,AirPods,Luxury,175.0,24,54,5
+22,Female,22,Dating,22,Labubu Doll,Collectibles,63.83,12,7,5
+23,Female,30,Married,107,Teddy Bear,Sentimental,47.09,12,4,5
+24,Male,39,Dating,15,Cookies,Sweets,19.73,0,39,3
+25,Male,22,Dating,21,Watch,Luxury,218.19,6,14,5
+26,Non-binary,22,Dating,39,Cookies,Sweets,9.54,1,10,4
+27,Male,25,Dating,27,Necklace,Jewelry,145.29,50,2,4
+28,Female,49,Married,145,Roblox Robux,Gaming,35.82,24,43,3
+29,Non-binary,42,Dating,20,Scented Candles,Sentimental,43.92,1,8,4
+30,Male,22,Dating,27,Roblox Robux,Gaming,75.51,6,0,4
+31,Female,27,Dating,47,Necklace,Jewelry,202.17,12,10,5
+32,Female,36,Married,212,Necklace,Jewelry,141.64,24,8,4
+33,Female,43,Married,153,Labubu Doll,Collectibles,53.16,1,3,4
+34,Female,36,First Date,0,Earring,Jewelry,111.58,1,8,4
+35,Male,46,Married,319,Dubai Chocolate,Sweets,21.28,12,24,4
+36,Male,39,Married,198,Stanley Cup,Collectibles,44.85,12,7,4
+37,Female,27,Dating,30,Labubu Doll,Collectibles,81.61,12,1,5
+38,Male,25,Dating,27,Stanley Cup,Collectibles,35.98,50,57,4
+39,Female,29,Dating,4,Perfume,Luxury,60.95,0,5,3
+40,Female,54,Married,210,Necklace,Jewelry,208.06,12,2,5
+41,Non-binary,42,Married,131,AirPods,Luxury,235.48,3,36,4
+42,Female,39,Dating,10,Dubai Chocolate,Sweets,32.37,24,24,4
+43,Male,33,Dating,24,Labubu Doll,Collectibles,66.05,0,34,4
+44,Female,43,Married,84,Dubai Chocolate,Sweets,17.81,50,25,4
+45,Female,38,Married,119,Dubai Chocolate,Sweets,21.88,24,2,5
+46,Male,28,Dating,31,Labubu Doll,Collectibles,32.54,6,10,4
+47,Male,34,Dating,33,Dubai Chocolate,Sweets,27.52,12,141,5
+48,Female,29,First Date,0,Cookies,Sweets,20.5,6,83,3
+49,Male,29,First Date,0,Labubu Doll,Collectibles,22.46,0,1,4
+50,Male,21,Dating,14,Necklace,Jewelry,92.83,67,36,5
+51,Non-binary,39,Dating,34,Dubai Chocolate,Sweets,24.63,67,0,4
+52,Non-binary,43,Married,165,Cookies,Sweets,18.48,67,12,5
+53,Female,36,Married,166,Necklace,Jewelry,158.06,24,36,4
+54,Female,34,Married,72,Dubai Chocolate,Sweets,22.14,24,20,4
+55,Male,45,First Date,0,Cookies,Sweets,8.81,6,11,5
+56,Female,30,Dating,13,Labubu Doll,Collectibles,77.33,6,4,5
+57,Male,23,First Date,0,Ring,Jewelry,362.52,3,3,3
+58,Female,31,First Date,0,Dubai Chocolate,Sweets,28.14,24,0,4
+59,Female,32,Complicated,44,Earring,Jewelry,180.82,0,5,4
+60,Female,42,Married,165,Labubu Doll,Collectibles,24.99,24,36,4
+61,Female,38,Married,87,Handmade Card,Sentimental,5.4,24,4,5
+62,Non-binary,28,Engaged,67,Cookies,Sweets,19.66,3,47,3
+63,Male,24,Dating,23,Watch,Luxury,409.12,24,1,4
+64,Female,35,First Date,0,Teddy Bear,Sentimental,29.98,0,9,4
+65,Female,23,Dating,8,Labubu Doll,Collectibles,26.41,12,3,5
+66,Male,32,Dating,8,Necklace,Jewelry,229.68,3,6,5
+67,Female,19,First Date,0,AirPods,Luxury,242.71,24,26,3
+68,Male,36,Dating,34,Scented Candles,Sentimental,44.06,12,45,4
+69,Non-binary,47,Married,233,Necklace,Jewelry,230.93,12,109,4
+70,Female,50,Married,137,Necklace,Jewelry,268.58,1,129,4
+71,Female,27,Married,77,Earring,Jewelry,131.65,0,2,3
+72,Male,34,Married,53,Dubai Chocolate,Sweets,34.19,6,0,3
+73,Male,43,Married,190,MLBB Skin,Gaming,20.98,0,10,3
+74,Non-binary,36,Dating,23,Watch,Luxury,265.65,6,50,3
+75,Female,33,Dating,33,Labubu Doll,Collectibles,15.42,50,6,5
+76,Male,29,Dating,19,Labubu Doll,Collectibles,22.01,24,60,5
+77,Female,24,Dating,6,Stanley Cup,Collectibles,46.11,6,10,5
+78,Female,21,First Date,0,Gojo Plush,Collectibles,58.84,67,41,4
+79,Male,23,First Date,0,Teddy Bear,Sentimental,41.21,12,35,5
+80,Female,38,Married,165,Gojo Plush,Collectibles,38.72,67,10,5
+81,Female,52,Married,225,Scented Candles,Sentimental,32.96,12,1,4
+82,Male,41,Married,110,Labubu Doll,Collectibles,31.71,1,135,5
+83,Female,26,Complicated,16,Dubai Chocolate,Sweets,19.96,1,0,3
+84,Female,21,Dating,27,Necklace,Jewelry,160.64,12,3,4
+85,Non-binary,26,Complicated,9,Ring,Jewelry,280.92,50,54,4
+86,Female,37,Married,188,Book,Sentimental,20.16,50,7,4
+87,Female,27,First Date,0,Labubu Doll,Collectibles,41.96,0,2,4
+88,Female,34,Dating,39,Cookies,Sweets,8.79,50,6,5
+89,Male,35,First Date,0,Ring,Jewelry,186.5,0,4,5
+90,Male,49,Married,244,Watch,Luxury,239.03,0,3,4
+91,Female,28,Dating,26,Handmade Card,Sentimental,20.6,6,37,5
+92,Male,25,First Date,0,AirPods,Luxury,191.16,0,37,3
+93,Non-binary,37,Dating,23,Necklace,Jewelry,64.39,1,40,4
+94,Male,26,Dating,46,AirPods,Luxury,248.52,0,4,4
+95,Male,36,Dating,5,Necklace,Jewelry,177.94,24,2,4
+96,Male,40,Married,194,Handmade Card,Sentimental,22.05,0,10,5
+97,Female,33,First Date,0,Roblox Robux,Gaming,18.68,0,0,2
+98,Female,45,Married,216,Dubai Chocolate,Sweets,34.56,50,72,5
+99,Female,25,Dating,1,Necklace,Jewelry,220.67,24,122,5
+100,Female,23,First Date,0,Perfume,Luxury,139.27,67,52,4
+101,Female,34,Dating,14,Dubai Chocolate,Sweets,20.75,0,4,4
+102,Non-binary,43,Married,71,Book,Sentimental,34.87,24,11,4
+103,Female,32,First Date,0,Earring,Jewelry,69.19,0,60,4
+104,Female,37,Married,117,Ring,Jewelry,258.95,1,27,4
+105,Male,50,First Date,0,AirPods,Luxury,158.84,24,39,4
+106,Male,35,Dating,28,MLBB Skin,Gaming,48.87,6,45,3
+107,Female,33,Married,102,Stanley Cup,Collectibles,41.55,24,6,5
+108,Male,36,Dating,37,Roblox Robux,Gaming,54.49,1,8,4
+109,Male,32,Dating,40,Labubu Doll,Collectibles,59.64,12,5,4
+110,Male,24,Dating,33,Necklace,Jewelry,220.03,24,8,4
+111,Male,19,Married,67,Earring,Jewelry,218.49,3,0,2
+112,Male,34,Dating,42,Scented Candles,Sentimental,31.85,0,4,4
+113,Male,35,Dating,43,Cookies,Sweets,13.46,12,0,3
+114,Female,50,Married,196,Stanley Cup,Collectibles,48.85,50,0,5
+115,Female,28,Dating,39,Ring,Jewelry,393.29,0,5,3
+116,Male,51,First Date,0,Labubu Doll,Collectibles,59.72,12,6,5
+117,Male,45,Dating,21,Teddy Bear,Sentimental,40.11,0,34,3
+118,Female,40,Married,163,Dubai Chocolate,Sweets,24.19,50,1,4
+119,Female,41,Married,196,Necklace,Jewelry,72.3,3,6,4
+120,Female,48,Married,357,Earring,Jewelry,197.81,12,6,5
+121,Non-binary,44,Married,104,Dubai Chocolate,Sweets,21.69,0,8,4
+122,Female,30,Dating,25,Dubai Chocolate,Sweets,28.4,0,47,3
+123,Male,40,Dating,16,Dubai Chocolate,Sweets,15.34,0,3,5
+124,Non-binary,46,Married,276,Teddy Bear,Sentimental,17.91,12,4,4
+125,Female,31,Married,102,Teddy Bear,Sentimental,56.46,0,7,3
+126,Male,49,Married,186,Watch,Luxury,140.13,12,2,4
+127,Male,36,Married,174,Necklace,Jewelry,81.66,3,14,4
+128,Male,46,Married,347,Earring,Jewelry,67.48,0,7,4
+129,Male,27,Dating,30,Dubai Chocolate,Sweets,33.93,0,7,5
+130,Male,28,Dating,45,Necklace,Jewelry,229.6,6,6,4
+131,Male,21,Dating,33,Labubu Doll,Collectibles,80.21,3,6,5
+132,Female,29,Dating,26,AirPods,Luxury,239.35,0,1,4
+133,Male,33,Dating,47,Earring,Jewelry,229.23,0,8,5
+134,Non-binary,38,Engaged,70,MLBB Skin,Gaming,42.36,6,12,3
+135,Non-binary,43,First Date,0,Dubai Chocolate,Sweets,34.92,1,3,5
+136,Male,28,Dating,46,Labubu Doll,Collectibles,60.81,24,10,4
+137,Male,22,Dating,38,Scented Candles,Sentimental,23.51,12,8,3
+138,Female,31,Married,60,Perfume,Luxury,113.7,0,22,3
+139,Female,24,First Date,0,MLBB Skin,Gaming,5.56,50,3,5
+140,Male,25,First Date,0,Dubai Chocolate,Sweets,17.31,24,34,4
+141,Male,26,Dating,6,Dubai Chocolate,Sweets,29.2,12,2,5
+142,Non-binary,22,Dating,26,Teddy Bear,Sentimental,59.81,3,37,4
+143,Female,44,Dating,5,Cookies,Sweets,12.57,0,2,3
+144,Non-binary,39,Married,235,Book,Sentimental,19.11,50,6,5
+145,Female,38,First Date,0,Dubai Chocolate,Sweets,27.29,0,52,4
+146,Male,32,Married,71,Book,Sentimental,38.37,24,6,4
+147,Male,46,Married,225,Labubu Doll,Collectibles,18.65,6,4,5
+148,Non-binary,26,Married,32,Dubai Chocolate,Sweets,15.3,1,7,5
+149,Male,41,Married,196,AirPods,Luxury,198.29,24,52,5
+150,Female,32,Dating,26,Dubai Chocolate,Sweets,20.54,12,8,5
+151,Non-binary,34,First Date,0,Cookies,Sweets,20.44,6,13,4
+152,Female,31,Married,70,Ring,Jewelry,418.0,6,1,3
+153,Male,31,First Date,0,Perfume,Luxury,143.19,0,0,3
+154,Non-binary,27,Dating,18,Watch,Luxury,331.79,0,9,4
+155,Female,21,Dating,12,Teddy Bear,Sentimental,47.6,1,27,3
+156,Female,44,Engaged,18,Book,Sentimental,36.11,3,5,4
+157,Female,30,Married,116,Watch,Luxury,187.25,50,52,4
+158,Male,35,Dating,11,Cookies,Sweets,12.62,0,6,4
+159,Female,20,Dating,13,Perfume,Luxury,40.32,50,53,4
+160,Female,28,Dating,29,Labubu Doll,Collectibles,25.15,24,0,5
+161,Female,24,Dating,34,Gojo Plush,Collectibles,43.84,3,42,4
+162,Female,36,Engaged,21,Dubai Chocolate,Sweets,24.5,24,87,5
+163,Female,38,Engaged,60,Scented Candles,Sentimental,17.63,0,7,4
+164,Female,25,Married,52,Perfume,Luxury,57.57,0,27,3
+165,Female,35,Dating,30,Gojo Plush,Collectibles,59.44,0,2,5
+166,Male,33,Dating,35,Teddy Bear,Sentimental,55.9,24,10,5
+167,Female,28,Dating,46,Teddy Bear,Sentimental,47.69,6,6,3
+168,Male,26,Dating,34,Dubai Chocolate,Sweets,23.49,0,31,3
+169,Female,54,Engaged,14,Labubu Doll,Collectibles,81.18,24,5,4
+170,Female,43,Married,144,Necklace,Jewelry,119.16,3,1,4
+171,Female,35,Engaged,49,Necklace,Jewelry,45.88,6,0,3
+172,Female,41,Dating,42,Stanley Cup,Collectibles,36.98,0,50,3
+173,Non-binary,38,Married,65,Handmade Card,Sentimental,23.54,6,7,5
+174,Female,28,Married,80,Dubai Chocolate,Sweets,27.95,1,24,4
+175,Male,39,Dating,35,Dubai Chocolate,Sweets,15.1,6,6,5
+176,Female,36,First Date,0,Book,Sentimental,19.67,12,0,2
+177,Male,25,Engaged,28,Handmade Card,Sentimental,12.89,6,8,5
+178,Female,31,Dating,33,Gojo Plush,Collectibles,26.93,6,45,2
+179,Female,28,Married,92,Concert Tickets,Sentimental,248.31,12,0,4
+180,Female,48,Married,249,Labubu Doll,Collectibles,68.29,0,0,3
+181,Female,46,Married,181,MLBB Skin,Gaming,33.33,0,5,2
+182,Male,31,Married,42,Roblox Robux,Gaming,49.56,6,2,4
+183,Female,52,First Date,0,Cookies,Sweets,10.02,0,4,4
+184,Female,41,Married,146,Ring,Jewelry,187.02,6,47,4
+185,Male,24,Dating,20,Perfume,Luxury,142.76,3,0,2
+186,Male,35,Dating,1,Labubu Doll,Collectibles,62.29,12,37,5
+187,Male,26,First Date,0,Labubu Doll,Collectibles,26.17,12,117,4
+188,Female,41,Married,147,Necklace,Jewelry,278.44,24,38,4
+189,Non-binary,40,Married,217,Necklace,Jewelry,172.17,6,3,3
+190,Female,38,Married,209,Dubai Chocolate,Sweets,21.37,0,0,2
+191,Male,27,Dating,43,Gojo Plush,Collectibles,25.37,0,45,3
+192,Male,39,Dating,32,Earring,Jewelry,61.23,1,8,4
+193,Male,23,Dating,27,Dubai Chocolate,Sweets,30.29,12,48,4
+194,Female,37,Complicated,40,Necklace,Jewelry,284.59,24,83,4
+195,Male,37,Married,187,Labubu Doll,Collectibles,68.4,12,9,5
+196,Female,48,Married,223,Handmade Card,Sentimental,18.26,0,43,5
+197,Female,25,Dating,25,Cookies,Sweets,11.49,1,11,4
+198,Male,49,Married,306,Dubai Chocolate,Sweets,15.77,0,21,3
+199,Male,32,Married,72,Roblox Robux,Gaming,94.96,0,9,3
+200,Non-binary,28,Married,91,Book,Sentimental,13.84,12,12,5
+201,Male,26,Dating,22,Stanley Cup,Collectibles,37.31,12,114,5
+202,Female,46,Married,299,Stanley Cup,Collectibles,43.57,6,8,4
+203,Male,24,First Date,0,Teddy Bear,Sentimental,51.98,1,52,4
+204,Non-binary,25,Dating,34,Perfume,Luxury,144.14,6,6,4
+205,Non-binary,24,Engaged,49,Dubai Chocolate,Sweets,29.73,6,42,4
+206,Male,40,Engaged,61,Dubai Chocolate,Sweets,17.91,0,51,4
+207,Female,33,Dating,4,MLBB Skin,Gaming,26.25,6,11,4
+208,Female,27,First Date,0,Necklace,Jewelry,230.29,12,51,2
+209,Male,27,First Date,0,Labubu Doll,Collectibles,20.84,0,96,3
+210,Male,25,Dating,29,Necklace,Jewelry,280.41,6,4,4
+211,Non-binary,38,Married,136,Gojo Plush,Collectibles,48.27,50,9,5
+212,Female,42,Married,131,Labubu Doll,Collectibles,16.79,24,0,3
+213,Male,32,Dating,11,Necklace,Jewelry,152.07,0,8,4
+214,Male,24,Dating,47,Dubai Chocolate,Sweets,30.62,24,51,4
+215,Male,45,Married,203,Ring,Jewelry,422.46,24,4,5
+216,Non-binary,34,Dating,33,Necklace,Jewelry,289.56,12,4,5
+217,Male,31,Dating,39,Ring,Jewelry,318.86,12,5,4
+218,Non-binary,34,Married,84,Stanley Cup,Collectibles,39.91,3,6,4
+219,Male,37,Married,107,Perfume,Luxury,163.66,12,10,5
+220,Female,28,First Date,0,Roblox Robux,Gaming,69.89,50,46,4
+221,Female,50,Dating,23,AirPods,Luxury,208.35,6,4,4
+222,Female,40,Complicated,7,Necklace,Jewelry,230.7,12,0,2
+223,Female,33,First Date,0,Cookies,Sweets,14.39,0,3,3
+224,Non-binary,30,Dating,16,Dubai Chocolate,Sweets,29.72,12,57,5
+225,Female,42,Dating,27,Labubu Doll,Collectibles,36.92,1,21,4
+226,Male,35,Engaged,17,MLBB Skin,Gaming,32.42,1,28,4
+227,Male,50,Married,330,Dubai Chocolate,Sweets,33.47,0,133,4
+228,Male,21,First Date,0,Handmade Card,Sentimental,18.26,0,55,3
+229,Female,40,Married,71,MLBB Skin,Gaming,5.97,1,3,4
+230,Female,28,Married,59,Necklace,Jewelry,33.68,6,32,4
+231,Male,28,Dating,44,Dubai Chocolate,Sweets,26.66,0,42,3
+232,Female,41,Complicated,13,MLBB Skin,Gaming,15.07,6,0,2
+233,Male,22,Married,42,Necklace,Jewelry,34.88,0,8,4
+234,Female,35,First Date,0,Handmade Card,Sentimental,20.9,24,59,5
+235,Female,32,Married,83,Ring,Jewelry,410.92,6,5,4
+236,Female,37,Dating,44,Labubu Doll,Collectibles,21.68,12,134,5
+237,Female,39,Dating,11,AirPods,Luxury,213.95,50,6,5
+238,Female,35,Dating,23,Ring,Jewelry,183.25,0,58,4
+239,Male,38,Dating,3,Ring,Jewelry,456.95,6,7,5
+240,Female,33,Dating,22,Book,Sentimental,22.92,12,3,3
+241,Male,37,Dating,33,Labubu Doll,Collectibles,57.98,12,5,4
+242,Female,47,Dating,41,Necklace,Jewelry,101.01,12,32,3
+243,Female,32,Dating,32,Necklace,Jewelry,96.8,12,51,4
+244,Female,43,Married,84,Cookies,Sweets,10.76,0,13,4
+245,Male,42,Married,120,Necklace,Jewelry,121.09,1,0,3
+246,Female,43,Married,113,Labubu Doll,Collectibles,84.88,67,3,5
+247,Female,29,Engaged,42,Necklace,Jewelry,33.85,0,5,4
+248,Non-binary,41,Dating,22,Cookies,Sweets,9.34,1,21,4
+249,Female,22,First Date,0,Gojo Plush,Collectibles,57.43,6,25,5
+250,Female,50,Married,126,MLBB Skin,Gaming,46.98,67,0,2
+251,Female,35,Dating,1,MLBB Skin,Gaming,17.71,12,9,4
+252,Non-binary,43,Married,113,Dubai Chocolate,Sweets,34.48,50,16,4
+253,Female,35,Dating,35,Cookies,Sweets,18.79,12,3,4
+254,Female,46,Married,315,Book,Sentimental,24.98,0,6,4
+255,Male,41,Married,216,Labubu Doll,Collectibles,19.01,0,49,5
+256,Male,23,Married,26,Necklace,Jewelry,204.94,67,12,5
+257,Female,45,Engaged,47,Book,Sentimental,18.06,3,9,5
+258,Non-binary,23,Dating,23,AirPods,Luxury,202.11,50,4,5
+259,Female,29,First Date,0,AirPods,Sweets,32.12,12,1,5
+260,Female,39,Dating,19,MLBB Skin,Gaming,32.61,12,3,3
+261,Male,28,Dating,33,Dubai Chocolate,Sweets,24.76,12,8,5
+262,Female,41,Dating,7,Necklace,Jewelry,144.19,24,11,4
+263,Non-binary,29,Engaged,68,Watch,Luxury,389.64,0,1,3
+264,Male,32,Married,78,Handmade Card,Sentimental,11.28,6,59,4
+265,Non-binary,42,Dating,33,Dubai Chocolate,Sweets,32.85,0,14,5
+266,Female,26,Married,77,Necklace,Jewelry,288.76,24,2,3
+267,Female,27,Married,57,Labubu Doll,Collectibles,84.85,0,10,4
+268,Male,25,Dating,8,Earring,Jewelry,104.17,1,6,4
+269,Male,32,Dating,4,Roblox Robux,Gaming,94.6,12,1,3
+270,Male,53,Married,275,MLBB Skin,Gaming,17.91,3,10,3
+271,Male,39,Married,181,Dubai Chocolate,Sweets,22.93,0,2,3
+272,Female,28,Dating,25,Book,Sentimental,28.61,0,43,4
+273,Female,38,Dating,21,Necklace,Jewelry,39.2,12,38,4
+274,Male,36,Dating,15,Necklace,Jewelry,224.83,12,46,4
+275,Female,29,Dating,34,Concert Tickets,Sentimental,192.39,50,49,5
+276,Female,39,Married,203,Ring,Jewelry,477.96,6,34,4
+277,Female,47,Married,194,Dubai Chocolate,Sweets,19.16,6,22,5
+278,Non-binary,29,Dating,45,Earring,Jewelry,104.36,1,45,4
+279,Female,27,First Date,0,Perfume,Luxury,109.5,1,5,4
+280,Non-binary,19,Married,79,Dubai Chocolate,Sweets,25.84,12,8,5
+281,Female,33,Dating,27,Stanley Cup,Collectibles,38.86,67,3,4
+282,Male,31,Dating,14,Dubai Chocolate,Sweets,30.0,24,28,4
+283,Female,29,Dating,46,Necklace,Jewelry,68.55,0,39,4
+284,Non-binary,46,Married,298,MLBB Skin,Gaming,41.13,24,6,2
+285,Female,47,Married,309,Earring,Jewelry,249.57,24,5,5
+286,Female,31,First Date,0,Teddy Bear,Sentimental,12.93,6,35,4
+287,Female,23,Dating,47,Labubu Doll,Collectibles,75.35,6,0,4
+288,Female,21,First Date,0,Roblox Robux,Gaming,95.92,3,13,5
+289,Female,42,Married,142,Dubai Chocolate,Sweets,15.14,12,21,4
+290,Male,31,First Date,0,Roblox Robux,Gaming,88.74,6,0,3
+291,Female,30,Married,43,Stanley Cup,Collectibles,42.45,3,52,4
+292,Female,27,First Date,0,Roblox Robux,Gaming,13.1,50,14,5
+293,Male,43,Married,223,Gojo Plush,Collectibles,34.13,50,58,3
+294,Female,32,Dating,19,AirPods,Luxury,192.67,0,0,2
+295,Female,34,Complicated,30,Dubai Chocolate,Sweets,26.02,50,37,4
+296,Male,35,First Date,0,MLBB Skin,Gaming,28.88,1,0,2
+297,Female,21,Dating,7,Handmade Card,Sentimental,13.5,0,137,5
+298,Male,35,Married,178,Ring,Jewelry,249.28,50,44,4
+299,Female,30,First Date,0,Stanley Cup,Collectibles,47.69,3,44,3
+300,Male,20,Dating,41,Labubu Doll,Collectibles,71.62,3,4,5
+301,Female,35,First Date,0,Dubai Chocolate,Sweets,28.09,3,18,5
+302,Male,34,Dating,40,Book,Sentimental,29.75,50,26,4
+303,Female,26,Dating,46,Dubai Chocolate,Sweets,20.25,24,6,4
+304,Female,43,Married,165,Labubu Doll,Collectibles,25.06,12,5,4
+305,Female,21,Dating,35,Watch,Luxury,361.32,0,0,2
+306,Female,26,Dating,14,Roblox Robux,Gaming,47.65,12,5,5
+307,Male,20,Dating,20,Earring,Jewelry,139.31,3,2,4
+308,Female,28,Dating,17,Dubai Chocolate,Sweets,30.65,12,50,5
+309,Female,22,First Date,0,Cookies,Sweets,14.16,24,12,4
+310,Female,32,Dating,23,Labubu Doll,Collectibles,42.93,12,38,5
+311,Male,35,Married,154,Earring,Jewelry,194.35,24,12,4
+312,Female,37,Married,174,Labubu Doll,Collectibles,47.75,1,6,5
+313,Male,39,Dating,21,Dubai Chocolate,Sweets,15.14,6,23,4
+314,Non-binary,33,Dating,30,MLBB Skin,Gaming,20.58,50,13,5
+315,Female,23,Dating,1,Teddy Bear,Sentimental,30.42,0,30,4
+316,Female,42,Married,210,Necklace,Jewelry,75.02,67,30,4
+317,Female,50,Dating,19,Dubai Chocolate,Sweets,19.17,6,6,4
+318,Male,29,First Date,0,Roblox Robux,Gaming,73.51,12,6,5
+319,Male,37,Married,85,Earring,Jewelry,222.76,12,49,3
+320,Female,36,First Date,0,Necklace,Jewelry,247.79,1,56,2
+321,Male,27,Married,30,Necklace,Jewelry,136.36,6,199,4
+322,Female,28,First Date,0,Cookies,Sweets,11.99,3,0,2
+323,Male,39,Engaged,33,Watch,Luxury,160.69,3,7,5
+324,Female,37,Married,73,Dubai Chocolate,Sweets,29.45,67,4,4
+325,Male,38,Complicated,9,Ring,Jewelry,59.34,12,62,3
+326,Female,31,Married,103,Stanley Cup,Collectibles,43.38,12,10,5
+327,Male,39,Married,167,Concert Tickets,Sentimental,263.9,12,10,5
+328,Female,25,First Date,0,Dubai Chocolate,Sweets,25.85,24,6,5
+329,Female,44,Married,195,Necklace,Jewelry,111.15,67,44,4
+330,Female,28,Married,87,Stanley Cup,Collectibles,47.21,12,3,5
+331,Non-binary,35,Dating,13,Labubu Doll,Collectibles,82.95,0,3,4
+332,Male,38,Married,238,Teddy Bear,Sentimental,57.36,3,14,3
+333,Female,29,Married,111,Labubu Doll,Collectibles,17.59,6,3,5
+334,Non-binary,30,First Date,0,Teddy Bear,Sentimental,33.74,67,45,4
+335,Male,43,Married,66,Gojo Plush,Collectibles,28.42,0,52,4
+336,Female,36,Dating,2,Watch,Luxury,377.77,12,6,5
+337,Female,36,Married,152,Book,Sentimental,24.09,6,30,3
+338,Male,26,Dating,14,Scented Candles,Sentimental,40.13,24,5,5
+339,Male,37,Married,89,Stanley Cup,Collectibles,40.04,12,0,2
+340,Female,36,Married,175,Earring,Jewelry,55.42,0,47,3
+341,Female,20,Dating,11,Ring,Jewelry,199.99,0,195,4
+342,Female,50,Dating,15,Watch,Luxury,295.1,6,7,4
+343,Non-binary,26,Dating,41,Watch,Luxury,234.26,3,2,4
+344,Female,22,First Date,0,Necklace,Jewelry,239.5,67,5,3
+345,Male,31,Married,88,Labubu Doll,Collectibles,52.14,1,11,3
+346,Female,33,Dating,9,Book,Sentimental,24.98,0,7,4
+347,Female,38,Dating,1,Ring,Jewelry,440.75,1,37,3
+348,Female,34,Married,47,Dubai Chocolate,Sweets,19.74,3,6,4
+349,Female,31,Married,53,Dubai Chocolate,Sweets,20.83,24,35,5
+350,Male,27,Dating,31,Necklace,Jewelry,43.84,12,22,3
+351,Male,32,Dating,4,Dubai Chocolate,Sweets,32.77,67,52,5
+352,Non-binary,49,Married,267,Dubai Chocolate,Sweets,32.21,24,0,3
+353,Male,38,Married,132,Stanley Cup,Collectibles,36.56,0,5,5
+354,Female,35,First Date,0,Book,Sentimental,21.41,12,35,4
+355,Male,34,Dating,4,Scented Candles,Sentimental,28.08,6,0,3
+356,Female,45,Married,289,Dubai Chocolate,Sweets,18.82,0,7,4
+357,Male,20,First Date,0,Labubu Doll,Collectibles,71.93,6,6,5
+358,Male,21,Dating,21,AirPods,Luxury,231.65,3,10,5
+359,Male,42,Dating,18,Labubu Doll,Collectibles,47.03,12,4,4
+360,Female,36,First Date,0,Handmade Card,Sentimental,21.96,0,5,5
+361,Male,39,Dating,45,Labubu Doll,Collectibles,32.85,0,7,4
+362,Female,33,Engaged,50,Book,Sentimental,39.1,50,0,3
+363,Female,39,Dating,16,Necklace,Jewelry,90.87,50,29,4
+364,Female,56,Married,261,Scented Candles,Sentimental,30.86,3,58,4
+365,Male,25,Dating,13,Necklace,Jewelry,146.0,67,2,4
+366,Female,21,Dating,21,Scented Candles,Sentimental,29.64,12,4,5
+367,Female,48,Married,139,Book,Sentimental,39.74,0,1,3
+368,Female,27,Married,78,Earring,Jewelry,69.26,24,44,4
+369,Female,40,First Date,0,Ring,Jewelry,482.88,0,4,4
+370,Male,28,Engaged,61,Roblox Robux,Gaming,96.78,0,54,4
+371,Female,44,Married,194,Necklace,Jewelry,75.39,3,10,4
+372,Male,27,Dating,28,Handmade Card,Sentimental,24.7,0,5,4
+373,Male,35,Dating,2,Roblox Robux,Gaming,21.45,12,24,3
+374,Male,34,Engaged,68,Watch,Luxury,195.16,24,5,5
+375,Female,46,Married,141,Necklace,Jewelry,211.59,6,46,3
+376,Male,28,Dating,28,Labubu Doll,Collectibles,28.52,0,7,4
+377,Female,48,Married,333,Dubai Chocolate,Sweets,32.2,3,0,4
+378,Female,30,Married,101,Cookies,Sweets,22.3,67,48,5
+379,Female,21,Dating,27,Cookies,Sweets,23.72,24,2,4
+380,Male,35,Dating,25,Teddy Bear,Sentimental,26.62,6,0,3
+381,Male,35,Dating,4,Earring,Jewelry,114.45,50,5,5
+382,Female,19,First Date,0,Watch,Luxury,434.03,12,48,3
+383,Non-binary,31,Dating,41,Perfume,Luxury,146.35,1,6,5
+384,Male,29,Dating,10,Perfume,Luxury,58.37,6,43,3
+385,Female,24,First Date,0,Perfume,Luxury,149.89,6,10,5
+386,Female,29,Dating,38,Cookies,Sweets,17.38,50,0,3
+387,Male,32,Engaged,59,Labubu Doll,Collectibles,26.64,24,4,5
+388,Female,38,Complicated,9,Earring,Jewelry,138.21,0,155,4
+389,Male,22,Dating,18,Necklace,Jewelry,43.39,1,2,4
+390,Female,42,Married,152,Dubai Chocolate,Sweets,17.4,6,37,4
+391,Female,38,Married,213,Labubu Doll,Collectibles,23.79,6,165,5
+392,Female,33,Dating,23,MLBB Skin,Gaming,33.53,50,2,4
+393,Female,34,Engaged,59,Scented Candles,Sentimental,32.53,12,8,4
+394,Female,30,Dating,18,Necklace,Jewelry,109.41,6,0,2
+395,Female,35,Dating,47,Gojo Plush,Collectibles,23.13,6,31,5
+396,Female,28,Dating,11,Dubai Chocolate,Sweets,33.64,12,34,5
+397,Male,37,Dating,17,Perfume,Luxury,42.83,3,3,4
+398,Female,41,Dating,35,Roblox Robux,Gaming,44.71,12,51,3
+399,Non-binary,27,Engaged,29,Stanley Cup,Collectibles,39.32,24,8,5
+400,Female,52,Married,120,Dubai Chocolate,Sweets,28.92,6,49,4
+401,Male,40,Married,163,MLBB Skin,Gaming,45.42,24,51,3
+402,Female,46,Engaged,47,Dubai Chocolate,Sweets,27.49,3,0,4
+403,Male,28,Dating,1,Watch,Luxury,436.7,6,2,3
+404,Non-binary,47,Married,223,Necklace,Jewelry,283.42,1,0,3
+405,Female,36,Married,87,Scented Candles,Sentimental,41.23,6,24,3
+406,Female,42,Dating,10,Stanley Cup,Collectibles,35.36,6,0,3
+407,Male,38,First Date,0,Necklace,Jewelry,210.75,12,5,3
+408,Female,19,First Date,0,Dubai Chocolate,Sweets,24.41,0,1,4
+409,Male,45,Dating,15,Dubai Chocolate,Sweets,32.53,3,0,3
+410,Female,37,Married,216,Necklace,Jewelry,192.26,12,12,4
+411,Male,22,Dating,28,Handmade Card,Sentimental,5.97,12,11,5
+412,Female,24,Dating,35,Ring,Jewelry,234.02,24,0,3
+413,Female,23,Dating,8,Roblox Robux,Gaming,59.57,6,54,3
+414,Non-binary,30,Dating,35,Gojo Plush,Collectibles,42.17,12,20,5
+415,Female,29,Dating,19,Stanley Cup,Collectibles,37.71,12,45,3
+416,Male,40,Married,233,Teddy Bear,Sentimental,29.88,1,9,5
+417,Female,30,Married,95,Labubu Doll,Collectibles,31.59,0,38,4
+418,Female,35,Engaged,37,Labubu Doll,Collectibles,30.6,1,3,5
+419,Male,32,Engaged,43,Necklace,Jewelry,136.39,6,3,3
+420,Male,32,Dating,15,AirPods,Luxury,180.72,24,4,4
+421,Male,29,Married,109,Handmade Card,Sentimental,16.08,0,10,4
+422,Female,39,Married,199,Teddy Bear,Sentimental,48.6,0,32,3
+423,Female,35,First Date,0,Handmade Card,Sentimental,5.26,12,0,3
+424,Female,19,Dating,34,MLBB Skin,Gaming,23.92,1,56,5
+425,Female,29,Dating,13,Concert Tickets,Sentimental,145.17,24,8,5
+426,Male,27,Dating,2,Gojo Plush,Collectibles,45.18,12,24,3
+427,Male,26,Dating,39,Necklace,Jewelry,104.83,12,2,4
+428,Female,36,Dating,42,Scented Candles,Sentimental,17.97,0,2,3
+429,Female,36,Married,220,Roblox Robux,Gaming,90.07,1,3,3
+430,Female,46,Married,300,Concert Tickets,Sentimental,282.94,50,5,5
+431,Male,46,Married,247,Necklace,Jewelry,54.2,12,12,3
+432,Male,43,Married,233,Labubu Doll,Collectibles,37.58,0,174,4
+433,Female,20,Dating,23,Necklace,Jewelry,112.05,12,2,4
+434,Female,39,Married,70,Dubai Chocolate,Sweets,32.9,12,3,4
+435,Male,37,Dating,28,Teddy Bear,Sentimental,29.15,6,19,3
+436,Female,44,First Date,0,Scented Candles,Sentimental,19.4,50,4,5
+437,Non-binary,32,Married,104,Labubu Doll,Collectibles,27.87,24,15,5
+438,Male,38,Engaged,51,Dubai Chocolate,Sweets,29.41,50,3,4
+439,Male,32,Dating,25,Dubai Chocolate,Sweets,28.27,12,41,3
+440,Female,47,Married,290,Teddy Bear,Sentimental,15.66,67,40,4
+441,Female,49,Married,215,Scented Candles,Sentimental,18.81,0,3,4
+442,Female,41,Dating,22,Dubai Chocolate,Sweets,16.55,3,2,4
+443,Male,32,Dating,37,Book,Sentimental,38.18,24,4,5
+444,Male,25,First Date,0,Book,Sentimental,25.57,0,8,3
+445,Male,36,Married,236,Gojo Plush,Collectibles,30.4,6,11,5
+446,Female,38,Married,96,Dubai Chocolate,Sweets,29.77,12,33,5
+447,Male,24,Dating,24,Labubu Doll,Collectibles,56.29,24,12,5
+448,Female,38,Married,151,Necklace,Jewelry,68.42,24,6,4
+449,Female,33,Dating,25,Watch,Luxury,243.89,50,2,4
+450,Non-binary,34,Married,39,Concert Tickets,Sentimental,195.68,24,108,5
+451,Male,37,Engaged,14,Labubu Doll,Collectibles,73.06,12,53,3
+452,Female,19,Dating,22,Stanley Cup,Collectibles,39.41,1,48,4
+453,Female,33,Dating,33,AirPods,Luxury,209.48,24,157,5
+454,Male,25,Dating,4,Dubai Chocolate,Sweets,27.67,24,0,3
+455,Male,22,First Date,0,Cookies,Sweets,16.12,24,0,3
+456,Female,27,Dating,3,Watch,Luxury,125.43,3,20,3
+457,Non-binary,28,Married,86,Dubai Chocolate,Sweets,28.82,12,56,4
+458,Female,19,First Date,0,Dubai Chocolate,Sweets,22.07,0,48,3
+459,Non-binary,42,Married,119,Perfume,Luxury,167.81,50,5,4
+460,Female,27,Dating,5,Necklace,Jewelry,248.81,0,22,4
+461,Female,38,Dating,44,Dubai Chocolate,Sweets,27.63,12,170,4
+462,Male,19,First Date,0,MLBB Skin,Gaming,23.8,6,183,5
+463,Female,35,Married,223,Labubu Doll,Collectibles,15.55,6,131,5
+464,Female,43,Dating,43,Concert Tickets,Sentimental,186.24,12,29,5
+465,Female,47,Dating,3,Dubai Chocolate,Sweets,28.3,0,3,4
+466,Non-binary,22,Dating,35,Labubu Doll,Collectibles,58.66,0,8,3
+467,Non-binary,34,Married,110,AirPods,Luxury,154.72,6,29,4
+468,Female,29,First Date,0,Dubai Chocolate,Sweets,17.78,1,46,3
+469,Female,23,First Date,0,Labubu Doll,Collectibles,46.97,12,12,5
+470,Female,50,Married,311,Ring,Jewelry,399.19,50,45,4
+471,Female,28,Dating,43,Stanley Cup,Collectibles,36.63,50,37,4
+472,Female,47,Dating,34,Earring,Jewelry,114.15,12,2,5
+473,Female,44,Married,124,Labubu Doll,Collectibles,25.23,6,35,3
+474,Non-binary,36,Married,121,Gojo Plush,Collectibles,54.67,67,54,5
+475,Male,24,First Date,0,MLBB Skin,Gaming,15.78,12,5,5
+476,Male,34,Married,96,AirPods,Luxury,229.58,0,60,4
+477,Female,43,Dating,36,Gojo Plush,Collectibles,42.18,50,144,5
+478,Male,25,Dating,44,Roblox Robux,Gaming,84.89,0,4,5
+479,Female,39,Dating,34,Dubai Chocolate,Sweets,30.59,24,3,5
+480,Male,47,Married,224,Roblox Robux,Gaming,28.15,6,12,3
+481,Female,43,Married,70,Dubai Chocolate,Sweets,25.83,67,27,5
+482,Female,23,Dating,6,Labubu Doll,Collectibles,82.72,0,0,3
+483,Male,24,Dating,18,Cookies,Sweets,23.62,3,27,3
+484,Female,26,Married,45,Labubu Doll,Collectibles,33.17,1,12,5
+485,Female,30,Engaged,49,Watch,Luxury,303.57,0,6,5
+486,Female,46,Married,193,Ring,Jewelry,229.76,1,12,5
+487,Male,37,Dating,43,Dubai Chocolate,Sweets,32.01,3,55,4
+488,Male,32,Dating,9,Dubai Chocolate,Sweets,25.62,6,4,4
+489,Male,34,Dating,23,Labubu Doll,Collectibles,16.95,12,4,5
+490,Female,39,Married,225,Cookies,Sweets,18.68,3,17,4
+491,Male,50,Dating,39,Roblox Robux,Gaming,44.16,24,14,3
+492,Female,36,Dating,8,MLBB Skin,Gaming,27.63,50,0,3
+493,Non-binary,41,Married,223,Dubai Chocolate,Sweets,18.6,6,0,2
+494,Female,30,Married,111,Earring,Jewelry,147.45,0,31,3
+495,Non-binary,28,First Date,0,MLBB Skin,Gaming,40.73,12,36,4
+496,Non-binary,42,Married,170,Ring,Jewelry,111.19,12,1,3
+497,Female,31,Dating,4,Dubai Chocolate,Sweets,25.46,1,12,4
+498,Male,34,Engaged,13,Necklace,Jewelry,232.14,1,2,3
+499,Female,35,Married,127,Gojo Plush,Collectibles,50.66,0,14,3
+500,Male,33,First Date,0,MLBB Skin,Gaming,23.15,1,13,4
+501,Non-binary,45,Married,245,Labubu Doll,Collectibles,54.42,6,14,4
+502,Male,28,Dating,25,Dubai Chocolate,Sweets,28.73,0,9,3
+503,Male,31,Married,56,Perfume,Luxury,147.91,6,5,4
+504,Female,27,Dating,28,Dubai Chocolate,Sweets,31.45,12,3,5
+505,Female,46,Married,174,Ring,Jewelry,94.6,0,11,4
+506,Female,37,First Date,0,Scented Candles,Sentimental,38.94,24,1,4
+507,Male,35,Dating,18,Perfume,Luxury,143.43,12,10,4
+508,Non-binary,27,Dating,40,Book,Sentimental,38.06,6,0,3
+509,Female,48,Married,293,Labubu Doll,Collectibles,66.76,0,6,4
+510,Male,56,Married,135,Book,Sentimental,37.42,50,6,4
+511,Female,29,Dating,44,Roblox Robux,Gaming,52.66,0,5,5
+512,Male,47,Dating,28,Labubu Doll,Collectibles,16.44,0,4,4
+513,Female,30,Dating,14,Gojo Plush,Collectibles,57.95,0,3,4
+514,Male,23,Dating,1,Labubu Doll,Collectibles,44.79,1,43,4
+515,Female,25,First Date,0,Scented Candles,Sentimental,21.53,6,11,4
+516,Male,32,Married,59,Ring,Jewelry,412.62,0,52,4
+517,Female,31,Married,119,Roblox Robux,Gaming,17.26,24,38,3
+518,Male,37,Married,83,Dubai Chocolate,Sweets,31.44,6,7,4
+519,Non-binary,18,Dating,45,Dubai Chocolate,Sweets,23.96,12,55,4
+520,Female,37,Dating,26,Labubu Doll,Collectibles,66.49,12,5,4
+521,Female,45,Dating,29,MLBB Skin,Gaming,10.41,0,2,3
+522,Male,25,Dating,8,Dubai Chocolate,Sweets,17.71,0,35,3
+523,Female,49,Married,165,Stanley Cup,Collectibles,46.09,50,0,4
+524,Female,50,Dating,2,MLBB Skin,Gaming,5.77,67,3,3
+525,Female,35,Dating,44,Gojo Plush,Collectibles,54.88,67,10,5
+526,Female,36,Married,195,Dubai Chocolate,Sweets,33.68,50,0,4
+527,Female,43,Married,176,Labubu Doll,Collectibles,32.51,50,30,4
+528,Male,42,Dating,4,Concert Tickets,Sentimental,53.7,6,4,5
+529,Male,29,Married,91,Necklace,Jewelry,239.78,67,34,4
+530,Male,27,Married,37,Dubai Chocolate,Sweets,34.93,0,149,4
+531,Non-binary,24,Dating,41,Ring,Jewelry,345.79,6,5,4
+532,Male,44,Dating,33,Necklace,Jewelry,67.35,12,101,4
+533,Male,25,First Date,0,AirPods,Luxury,182.56,0,3,4
+534,Male,34,Married,80,Labubu Doll,Collectibles,71.56,0,0,3
+535,Male,23,Dating,33,Concert Tickets,Sentimental,190.41,6,6,5
+536,Female,26,Dating,39,Necklace,Jewelry,124.97,12,32,4
+537,Female,50,Married,344,MLBB Skin,Gaming,49.55,24,1,3
+538,Female,19,Dating,11,AirPods,Luxury,202.0,3,7,4
+539,Non-binary,31,Dating,36,Scented Candles,Sentimental,16.51,6,0,2
+540,Male,30,Married,44,Earring,Jewelry,95.82,6,11,5
+541,Male,34,Dating,16,Ring,Jewelry,125.36,24,60,4
+542,Female,30,First Date,0,Gojo Plush,Collectibles,57.38,67,10,5
+543,Female,41,Engaged,69,Stanley Cup,Collectibles,49.98,0,2,3
+544,Non-binary,32,Dating,43,Dubai Chocolate,Sweets,18.45,12,7,4
+545,Female,28,First Date,0,Labubu Doll,Collectibles,51.33,24,8,5
+546,Female,43,Married,218,Teddy Bear,Sentimental,26.19,1,38,4
+547,Male,54,Dating,26,Gojo Plush,Collectibles,56.28,6,7,4
+548,Female,31,Dating,45,Book,Sentimental,35.44,6,44,4
+549,Female,32,Dating,24,Book,Sentimental,13.22,50,4,5
+550,Female,38,Married,208,Watch,Luxury,350.92,50,5,5
+551,Female,41,Dating,40,AirPods,Luxury,182.41,6,6,4
+552,Female,31,Dating,11,Scented Candles,Sentimental,17.64,3,24,3
+553,Female,45,Married,357,Dubai Chocolate,Sweets,25.44,0,2,4
+554,Male,35,Dating,41,Labubu Doll,Collectibles,55.67,0,2,5
+555,Non-binary,31,Married,115,Necklace,Jewelry,219.03,3,27,4
+556,Male,37,Married,180,Concert Tickets,Sentimental,224.44,1,13,5
+557,Female,22,Dating,41,Ring,Jewelry,353.67,12,4,5
+558,Female,27,First Date,0,Concert Tickets,Sentimental,58.01,50,6,5
+559,Female,25,Married,34,Concert Tickets,Sentimental,89.69,24,137,5
+560,Female,27,Dating,6,Cookies,Sweets,18.26,3,6,4
+561,Male,24,First Date,0,Book,Sentimental,27.0,24,41,3
+562,Non-binary,26,Dating,15,Necklace,Jewelry,68.17,24,6,4
+563,Female,29,Dating,19,Dubai Chocolate,Sweets,30.08,0,14,4
+564,Male,29,Married,58,Gojo Plush,Collectibles,56.25,6,8,5
+565,Female,45,Married,207,Labubu Doll,Collectibles,70.28,6,15,4
+566,Male,29,Dating,11,Roblox Robux,Gaming,36.2,12,46,4
+567,Male,35,Dating,5,Cookies,Sweets,8.56,0,26,3
+568,Female,29,Married,57,Concert Tickets,Sentimental,76.5,24,4,5
+569,Female,48,Married,140,Roblox Robux,Gaming,74.5,67,40,3
+570,Female,24,Dating,37,Dubai Chocolate,Sweets,34.28,0,16,5
+571,Male,43,Dating,30,Watch,Luxury,175.69,24,37,4
+572,Female,47,Married,306,MLBB Skin,Gaming,23.19,6,31,2
+573,Female,41,Married,195,Dubai Chocolate,Sweets,24.13,24,33,3
+574,Non-binary,40,Married,69,Labubu Doll,Collectibles,37.93,0,11,5
+575,Female,30,Dating,46,Teddy Bear,Sentimental,59.65,12,2,4
+576,Female,26,Dating,21,Labubu Doll,Collectibles,75.23,0,32,5
+577,Female,31,Married,60,Perfume,Luxury,83.41,24,38,3
+578,Non-binary,29,Married,103,Necklace,Jewelry,282.23,12,9,5
+579,Female,36,Dating,22,Labubu Doll,Collectibles,22.87,6,49,4
+580,Female,47,Married,321,Teddy Bear,Sentimental,24.9,12,23,4
+581,Female,28,First Date,0,Cookies,Sweets,24.62,12,30,4
+582,Female,27,First Date,0,Dubai Chocolate,Sweets,23.27,50,4,4
+583,Female,44,Married,213,Ring,Jewelry,269.78,0,6,4
+584,Female,34,Dating,24,Handmade Card,Sentimental,7.56,12,29,5
+585,Female,35,Dating,35,Labubu Doll,Collectibles,32.82,50,4,5
+586,Male,23,Dating,7,Book,Sentimental,11.71,12,1,4
+587,Female,49,First Date,0,MLBB Skin,Gaming,7.87,50,5,4
+588,Female,38,Married,150,Labubu Doll,Collectibles,81.11,0,12,4
+589,Female,20,Engaged,42,Ring,Jewelry,385.02,24,4,5
+590,Female,30,Dating,7,Necklace,Jewelry,295.78,12,151,5
+591,Female,34,Married,64,Scented Candles,Sentimental,44.8,12,77,4
+592,Female,30,Dating,2,Necklace,Jewelry,97.55,3,38,4
+593,Female,42,Married,236,Ring,Jewelry,286.72,12,5,4
+594,Non-binary,23,Dating,19,Dubai Chocolate,Sweets,22.63,6,4,5
+595,Male,28,Dating,39,Stanley Cup,Collectibles,35.93,24,57,3
+596,Female,39,Engaged,57,Gojo Plush,Collectibles,36.17,50,128,5
+597,Male,45,Engaged,25,Labubu Doll,Collectibles,82.18,0,4,5
+598,Non-binary,35,Married,225,Labubu Doll,Collectibles,48.29,12,7,4
+599,Non-binary,23,Dating,41,Teddy Bear,Sentimental,30.2,0,53,3
+600,Female,27,Dating,42,Concert Tickets,Sentimental,75.25,0,34,4
+601,Male,27,First Date,0,Labubu Doll,Collectibles,23.26,12,56,5
+602,Male,39,Married,195,Roblox Robux,Gaming,12.7,12,59,3
+603,Female,41,Married,119,Scented Candles,Sentimental,24.94,6,0,2
+604,Female,26,First Date,0,Handmade Card,Sentimental,20.86,0,0,2
+605,Female,45,Married,163,Dubai Chocolate,Sweets,20.77,6,5,4
+606,Female,37,Dating,38,Handmade Card,Sentimental,14.62,6,5,5
+607,Female,38,Married,190,Stanley Cup,Collectibles,38.05,3,7,5
+608,Female,29,Dating,18,Concert Tickets,Sentimental,90.01,0,0,4
+609,Male,35,Married,173,Gojo Plush,Collectibles,45.26,67,7,5
+610,Female,47,Dating,41,Dubai Chocolate,Sweets,16.95,12,5,4
+611,Female,55,Married,188,Book,Sentimental,24.37,24,52,4
+612,Male,35,Dating,37,Labubu Doll,Collectibles,43.81,3,8,5
+613,Male,28,Dating,32,MLBB Skin,Gaming,37.36,1,0,4
+614,Male,51,Married,153,Ring,Jewelry,205.4,3,4,4
+615,Male,42,Engaged,64,Earring,Jewelry,37.79,3,7,4
+616,Female,54,Married,344,Perfume,Luxury,180.01,3,4,4
+617,Female,40,Engaged,19,Teddy Bear,Sentimental,53.42,24,19,4
+618,Female,33,First Date,0,Scented Candles,Sentimental,22.95,24,46,4
+619,Male,29,Dating,26,Dubai Chocolate,Sweets,26.91,6,47,4
+620,Female,41,Married,84,Scented Candles,Sentimental,25.91,1,52,3
+621,Non-binary,31,Married,75,Perfume,Luxury,141.98,1,32,4
+622,Female,43,First Date,0,Earring,Jewelry,122.84,12,7,4
+623,Male,20,Dating,3,Dubai Chocolate,Sweets,28.68,6,0,3
+624,Female,44,Dating,35,Roblox Robux,Gaming,14.01,24,61,3
+625,Male,40,Engaged,31,Earring,Jewelry,128.52,12,40,4
+626,Male,34,Engaged,48,Necklace,Jewelry,44.26,12,35,4
+627,Female,32,Dating,47,Labubu Doll,Collectibles,57.47,24,4,5
+628,Female,38,Engaged,58,AirPods,Luxury,232.16,50,10,4
+629,Male,28,First Date,0,Teddy Bear,Sentimental,40.12,12,1,3
+630,Male,46,Married,307,Necklace,Jewelry,185.59,0,7,5
+631,Female,29,Married,114,Handmade Card,Sentimental,11.34,50,15,5
+632,Male,28,Engaged,68,MLBB Skin,Gaming,35.45,12,37,4
+633,Female,48,Married,157,AirPods,Luxury,202.71,0,25,4
+634,Female,33,Dating,37,Stanley Cup,Collectibles,36.44,0,4,3
+635,Non-binary,32,First Date,0,Dubai Chocolate,Sweets,21.79,3,4,5
+636,Female,26,Dating,43,Teddy Bear,Sentimental,17.39,12,6,4
+637,Female,35,Dating,13,Necklace,Jewelry,39.47,12,24,4
+638,Male,46,Married,230,Necklace,Jewelry,238.38,0,33,4
+639,Female,31,Dating,14,Dubai Chocolate,Sweets,33.42,3,15,4
+640,Female,41,Married,229,Dubai Chocolate,Sweets,33.6,12,15,4
+641,Female,44,Engaged,42,Handmade Card,Sentimental,23.02,6,58,4
+642,Non-binary,36,Dating,9,Ring,Jewelry,100.52,12,4,5
+643,Female,34,First Date,0,Cookies,Sweets,15.44,50,6,5
+644,Female,52,Dating,33,Cookies,Sweets,17.66,0,1,3
+645,Female,43,Engaged,54,Necklace,Jewelry,244.91,12,6,4
+646,Female,38,Married,132,Book,Sentimental,39.52,0,11,4
+647,Female,50,Married,225,Scented Candles,Sentimental,23.69,50,0,4
+648,Male,40,Married,90,Teddy Bear,Sentimental,56.52,24,52,4
+649,Male,32,Dating,24,Handmade Card,Sentimental,8.79,1,60,5
+650,Male,55,Married,231,Perfume,Luxury,164.84,1,3,4
+651,Non-binary,37,Engaged,23,Gojo Plush,Collectibles,55.32,12,11,4
+652,Female,24,Engaged,52,Labubu Doll,Collectibles,26.86,3,20,4
+653,Male,45,Married,183,Ring,Jewelry,311.38,0,11,3
+654,Male,44,Dating,37,Scented Candles,Sentimental,32.61,24,125,5
+655,Female,29,Dating,29,Stanley Cup,Collectibles,45.51,3,21,3
+656,Non-binary,36,Engaged,23,Perfume,Luxury,73.79,24,178,4
+657,Non-binary,25,First Date,0,Necklace,Jewelry,71.61,12,8,4
+658,Male,21,First Date,0,Dubai Chocolate,Sweets,25.39,12,12,5
+659,Male,30,Dating,43,Perfume,Luxury,41.06,1,4,4
+660,Female,45,Dating,5,Dubai Chocolate,Sweets,24.0,1,6,5
+661,Male,35,Married,180,Handmade Card,Sentimental,23.41,0,38,5
+662,Male,45,Married,137,Dubai Chocolate,Sweets,19.53,12,13,4
+663,Male,26,Married,82,Labubu Doll,Collectibles,37.81,12,36,4
+664,Non-binary,21,Dating,13,Watch,Luxury,427.41,6,9,4
+665,Male,28,Engaged,36,Necklace,Jewelry,177.12,3,12,5
+666,Male,36,Married,168,Dubai Chocolate,Sweets,29.76,12,0,3
+667,Male,36,Dating,47,Scented Candles,Sentimental,38.59,0,5,4
+668,Non-binary,20,Dating,34,Perfume,Luxury,142.06,6,1,4
+669,Male,27,Dating,45,Necklace,Jewelry,213.54,12,4,5
+670,Female,37,First Date,0,Concert Tickets,Sentimental,149.33,1,36,5
